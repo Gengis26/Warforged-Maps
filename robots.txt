@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gengis26.github.io/Warforged-Maps/sitemap.xml
